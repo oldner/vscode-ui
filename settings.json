@@ -1,0 +1,30 @@
+{
+    "workbench.colorTheme": "SeaShells (Dark)",
+    "apc.electron": {
+        "frame": false,
+        // "transparent": true,
+        "titleBarStyle": "hiddenInset",
+        "opacity": 0.98,
+        "visualEffectState": "active"
+      },
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.inlayHints.fontFamily": "JetBrains Mono",
+    "editor.codeLensFontFamily": "JetBrains Mono",
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "scm.inputFontFamily": "JetBrains Mono",
+    "chat.editor.fontFamily": "JetBrains Mono",
+    "debug.console.fontFamily": "JetBrains Mono",
+    "notebook.output.fontFamily": "JetBrains Mono",
+    "markdown.preview.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "apc.header": {
+      "height": 20, // applied in case if default or compact not specified
+      "fontSize": 10
+    },
+    "workbench.activityBar.visible": false,
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "window.menuBarVisibility": "compact",
+    "apc.menubar.compact": true,
+    "window.density.editorTabHeight": "compact"
+}
